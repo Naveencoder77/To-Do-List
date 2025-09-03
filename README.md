@@ -1,4 +1,33 @@
-# React + Vite
+ ✅ To-Do List App
+
+A simple task management app built using **JavaScript, HTML, and CSS**.  
+Users can add, remove, and manage their daily tasks with a clean interface.  
+
+---
+
+## 🚀 Tech Stack
+- React
+- JavaScript  
+- HTML  
+- CSS  
+
+---
+
+## ✨ Features
+- Add new tasks  
+- Remove completed tasks  
+- Persistent task list using local storage (if you added it)  
+
+---
+
+## ▶️ How to Run
+Clone the repo and open in a browser:
+
+```bash
+git clone https://github.com/Naveencoder77/To-Do-List.git
+cd To-Do-List
+open index.html
+eact + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 

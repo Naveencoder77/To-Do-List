@@ -16,7 +16,7 @@ Users can add, remove, and manage their daily tasks with a clean interface.
 ## ✨ Features
 - Add new tasks  
 - Remove completed tasks  
-- Persistent task list using local storage (if you added it)  
+  
 
 ---
 
